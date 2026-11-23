@@ -1,0 +1,1 @@
+Screenshots of the launcher in `launcher/`, for its pull request: drawn offscreen by its own tests (`tests/polish.rs`, `tests/screenshots.rs`) on iced's tiny-skia renderer. Every path and line of output in them is made up. Not part of the pull request.
